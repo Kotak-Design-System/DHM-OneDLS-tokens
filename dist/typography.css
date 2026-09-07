@@ -1,0 +1,449 @@
+/* Generated typography utility classes. */
+.dhm-type-heading-title-32-b {
+  font-family: Roboto;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 40px;
+  letter-spacing: 0px;
+}
+
+.dhm-type-heading-h1-28-b {
+  font-family: Roboto;
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 36px;
+  letter-spacing: 0px;
+}
+
+.dhm-type-heading-h3-20-r {
+  font-family: Roboto;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 28px;
+  letter-spacing: 0px;
+}
+
+.dhm-type-heading-h3-20-m {
+  font-family: Roboto;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 28px;
+  letter-spacing: 0px;
+}
+
+.dhm-type-heading-h3-20-b {
+  font-family: Roboto;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 28px;
+  letter-spacing: 0px;
+}
+
+.dhm-type-heading-h2-24-m {
+  font-family: Roboto;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 32px;
+  letter-spacing: 0px;
+}
+
+.dhm-type-heading-h2-24-l {
+  font-family: Roboto;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 32px;
+  letter-spacing: 0px;
+}
+
+.dhm-type-heading-h2-24-b {
+  font-family: Roboto;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 32px;
+  letter-spacing: 0px;
+}
+
+.dhm-type-heading-h3-20-l {
+  font-family: Roboto;
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 28px;
+  letter-spacing: 0px;
+}
+
+.dhm-type-body-b2-14-m {
+  font-family: Roboto;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 18px;
+  letter-spacing: 0px;
+}
+
+.dhm-type-body-b2-14-r {
+  font-family: Roboto;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 18px;
+  letter-spacing: 0px;
+}
+
+.dhm-type-body-b1-16-b {
+  font-family: Roboto;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 22px;
+  letter-spacing: 0px;
+}
+
+.dhm-type-body-b1-16-m {
+  font-family: Roboto;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 22px;
+  letter-spacing: 0px;
+}
+
+.dhm-type-body-b1-16-r {
+  font-family: Roboto;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22px;
+  letter-spacing: 0px;
+}
+
+.dhm-type-caption-and-overline-overline-10-m {
+  font-family: Roboto;
+  font-weight: 500;
+  font-size: 10px;
+  line-height: 12px;
+  letter-spacing: 0px;
+}
+
+.dhm-type-caption-and-overline-overline-10-b {
+  font-family: Roboto;
+  font-weight: 700;
+  font-size: 10px;
+  line-height: 12px;
+  letter-spacing: 0px;
+}
+
+.dhm-type-caption-and-overline-caption-12-l {
+  font-family: Roboto;
+  font-weight: 300;
+  font-size: 12px;
+  line-height: 16px;
+  letter-spacing: 0px;
+}
+
+.dhm-type-caption-and-overline-caption-12-r {
+  font-family: Roboto;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 16px;
+  letter-spacing: 0px;
+}
+
+.dhm-type-caption-and-overline-caption-12-b {
+  font-family: Roboto;
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 16px;
+  letter-spacing: 0px;
+}
+
+.dhm-type-caption-and-overline-caption-12-m {
+  font-family: Roboto;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 16px;
+  letter-spacing: 0px;
+}
+
+.dhm-type-amounts-decimals-d1-d3-d5 {
+  font-family: Roboto;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 12px;
+  letter-spacing: 0px;
+}
+
+.dhm-type-amounts-decimals-d4 {
+  font-family: Roboto;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 30px;
+  letter-spacing: 0px;
+}
+
+.dhm-type-amounts-decimals-d6 {
+  font-family: Roboto;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 18px;
+  letter-spacing: 0px;
+}
+
+.dhm-type-amounts-decimals-d9 {
+  font-family: Roboto;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 16px;
+  letter-spacing: 0px;
+}
+
+.dhm-type-amounts-decimals-d10-d11 {
+  font-family: Roboto;
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 14px;
+  letter-spacing: 0px;
+}
+
+.dhm-type-amounts-decimals-d12-m {
+  font-family: Roboto;
+  font-weight: 500;
+  font-size: 10px;
+  line-height: 14px;
+  letter-spacing: 0px;
+}
+
+.dhm-type-amounts-decimals-d13-m {
+  font-family: Roboto;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 12px;
+  letter-spacing: 0px;
+}
+
+.dhm-type-amounts-amount-a1 {
+  font-family: Roboto;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 40px;
+  letter-spacing: 0px;
+}
+
+.dhm-type-amounts-amount-a2-bl {
+  font-family: Roboto;
+  font-weight: 900;
+  font-size: 28px;
+  line-height: 40px;
+  letter-spacing: 0px;
+}
+
+.dhm-type-amounts-amount-a3 {
+  font-family: Roboto;
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 36px;
+  letter-spacing: 0px;
+}
+
+.dhm-type-amounts-amount-a4 {
+  font-family: Roboto;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 32px;
+  letter-spacing: 0px;
+}
+
+.dhm-type-amounts-amount-a5 {
+  font-family: Roboto;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+  letter-spacing: 0px;
+}
+
+.dhm-type-amounts-amount-a5-m {
+  font-family: Roboto;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 28px;
+  letter-spacing: 0px;
+}
+
+.dhm-type-amounts-amount-a6 {
+  font-family: Roboto;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 28px;
+  letter-spacing: 0px;
+}
+
+.dhm-type-amounts-amount-a7-r {
+  font-family: Roboto;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 28px;
+  letter-spacing: 0px;
+}
+
+.dhm-type-amounts-amount-a8 {
+  font-family: Roboto;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 22px;
+  letter-spacing: 0px;
+}
+
+.dhm-type-amounts-amount-a9-m {
+  font-family: Roboto;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 22px;
+  letter-spacing: 0px;
+}
+
+.dhm-type-amounts-amount-a10 {
+  font-family: Roboto;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 18px;
+  letter-spacing: 0px;
+}
+
+.dhm-type-amounts-amount-a11 {
+  font-family: Roboto;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 18px;
+  letter-spacing: 0px;
+}
+
+.dhm-type-amounts-amount-a12-m {
+  font-family: Roboto;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 18px;
+  letter-spacing: 0px;
+}
+
+.dhm-type-amounts-amount-a13-m {
+  font-family: Roboto;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 12px;
+  letter-spacing: 0px;
+}
+
+.dhm-type-amounts-amount-a14-m {
+  font-family: Roboto;
+  font-weight: 500;
+  font-size: 10px;
+  line-height: 12px;
+  letter-spacing: 0px;
+}
+
+.dhm-type-amounts-amount-a15 {
+  font-family: Roboto;
+  font-weight: 700;
+  font-size: 10px;
+  line-height: 12px;
+  letter-spacing: 0px;
+}
+
+.dhm-type-amounts-currency-symbol-c1 {
+  font-family: Roboto;
+  font-weight: 300;
+  font-size: 32px;
+  line-height: 40px;
+  letter-spacing: 0px;
+}
+
+.dhm-type-amounts-currency-symbol-c2 {
+  font-family: Roboto;
+  font-weight: 300;
+  font-size: 28px;
+  line-height: 40px;
+  letter-spacing: 0px;
+}
+
+.dhm-type-amounts-currency-symbol-c3 {
+  font-family: Roboto;
+  font-weight: 300;
+  font-size: 28px;
+  line-height: 36px;
+  letter-spacing: 0px;
+}
+
+.dhm-type-amounts-currency-symbol-c4 {
+  font-family: Roboto;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 32px;
+  letter-spacing: 0px;
+}
+
+.dhm-type-amounts-currency-symbol-c5 {
+  font-family: Roboto;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 28px;
+  letter-spacing: 0px;
+}
+
+.dhm-type-amounts-currency-symbol-c6 {
+  font-family: Roboto;
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 28px;
+  letter-spacing: 0px;
+}
+
+.dhm-type-amounts-currency-symbol-c7-r {
+  font-family: Roboto;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 28px;
+  letter-spacing: 0px;
+}
+
+.dhm-type-amounts-currency-symbol-c8 {
+  font-family: Roboto;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 22px;
+  letter-spacing: 0px;
+}
+
+.dhm-type-amounts-currency-symbol-c9 {
+  font-family: Roboto;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 22px;
+  letter-spacing: 0px;
+}
+
+.dhm-type-amounts-currency-symbol-c10 {
+  font-family: Roboto;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 18px;
+  letter-spacing: 0px;
+}
+
+.dhm-type-amounts-currency-symbol-c11-c12 {
+  font-family: Roboto;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 18px;
+  letter-spacing: 0px;
+}
+
+.dhm-type-amounts-currency-symbol-c13 {
+  font-family: Roboto;
+  font-weight: 300;
+  font-size: 12px;
+  line-height: 12px;
+  letter-spacing: 0px;
+}
+
+.dhm-type-amounts-currency-symbol-c14-c15 {
+  font-family: Roboto;
+  font-weight: 300;
+  font-size: 10px;
+  line-height: 12px;
+  letter-spacing: 0px;
+}
+

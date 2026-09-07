@@ -1,0 +1,95 @@
+{
+  "Breakpoints": {
+    "screen-max": {
+      "$type": "number",
+      "$value": "{Sizing.640px-Screen-md}",
+      "$extensions": {
+        "codeSyntax": {
+          "WEB": "screen-max"
+        },
+        "com.figma": {
+          "variableId": "VariableID:8474:51116",
+          "collectionId": "VariableCollectionId:8474:51115",
+          "syncStatus": "synced"
+        },
+        "com.figma.scopes": [
+          "WIDTH_HEIGHT"
+        ]
+      }
+    },
+    "Only-desktop": {
+      "$type": "boolean",
+      "$value": false,
+      "$extensions": {
+        "codeSyntax": {
+          "WEB": "only-desktop"
+        },
+        "com.figma": {
+          "variableId": "VariableID:8478:38466",
+          "collectionId": "VariableCollectionId:8474:51115",
+          "syncStatus": "synced"
+        }
+      }
+    },
+    "Only-mobile": {
+      "$type": "boolean",
+      "$value": true,
+      "$extensions": {
+        "codeSyntax": {
+          "WEB": "only-mobile"
+        },
+        "com.figma": {
+          "variableId": "VariableID:8478:38468",
+          "collectionId": "VariableCollectionId:8474:51115",
+          "syncStatus": "synced"
+        }
+      }
+    },
+    "Section Header Variant": {
+      "$type": "fontWeight",
+      "$value": "Mobile",
+      "$extensions": {
+        "codeSyntax": {
+          "WEB": "section-header-variant"
+        },
+        "com.figma": {
+          "variableId": "VariableID:17404:19994",
+          "collectionId": "VariableCollectionId:8474:51115",
+          "syncStatus": "synced"
+        },
+        "com.figma.scopes": [
+          "TEXT_FONT_FAMILY",
+          "TEXT_FONT_WEIGHT"
+        ]
+      }
+    },
+    "Section Horizontal Padding": {
+      "$type": "number",
+      "$value": "{Spacing.16px}",
+      "$extensions": {
+        "codeSyntax": {
+          "WEB": "section-horizontal-padding"
+        },
+        "com.figma": {
+          "variableId": "VariableID:17404:20922",
+          "collectionId": "VariableCollectionId:8474:51115",
+          "syncStatus": "synced"
+        },
+        "com.figma.scopes": [
+          "CORNER_RADIUS",
+          "WIDTH_HEIGHT",
+          "GAP",
+          "OPACITY",
+          "STROKE_FLOAT",
+          "EFFECT_FLOAT",
+          "TEXT_FONT_WEIGHT",
+          "TEXT_FONT_SIZE",
+          "TEXT_LINE_HEIGHT",
+          "TEXT_LETTER_SPACING",
+          "TEXT_PARAGRAPH_SPACING",
+          "TEXT_PARAGRAPH_INDENT"
+        ]
+      }
+    }
+  }
+}

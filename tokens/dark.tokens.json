@@ -1,0 +1,647 @@
+{
+  "Semantics": {
+    "Background": {
+      "Base": {
+        "Base": {
+          "$type": "color",
+          "$value": "{kotak_palette.Color.Ext.Dark-blue.ext-dark-blue_05}",
+          "$extensions": {
+            "codeSyntax": {
+              "WEB": "background-base-base"
+            },
+            "com.figma": {
+              "variableId": "VariableID:7015:5416",
+              "collectionId": "VariableCollectionId:7015:5415",
+              "syncStatus": "synced"
+            },
+            "com.figma.scopes": [
+              "FRAME_FILL",
+              "SHAPE_FILL",
+              "EFFECT_COLOR"
+            ]
+          }
+        },
+        "Default": {
+          "$type": "color",
+          "$value": "{kotak_palette.Color.Grey.Grey_16}",
+          "$extensions": {
+            "codeSyntax": {
+              "WEB": "background-base-default"
+            },
+            "com.figma": {
+              "variableId": "VariableID:10022:304806",
+              "collectionId": "VariableCollectionId:7015:5415",
+              "syncStatus": "synced"
+            },
+            "com.figma.scopes": [
+              "FRAME_FILL",
+              "SHAPE_FILL",
+              "EFFECT_COLOR"
+            ]
+          }
+        },
+        "Alternate": {
+          "$type": "color",
+          "$value": "{kotak_palette.Color.Grey.Grey_14}",
+          "$extensions": {
+            "codeSyntax": {
+              "WEB": "background-base-alternate"
+            },
+            "com.figma": {
+              "variableId": "VariableID:7015:5591",
+              "collectionId": "VariableCollectionId:7015:5415",
+              "syncStatus": "synced"
+            },
+            "com.figma.scopes": [
+              "FRAME_FILL",
+              "SHAPE_FILL",
+              "EFFECT_COLOR"
+            ]
+          }
+        },
+        "Disable": {
+          "$type": "color",
+          "$value": "{kotak_palette.Color.Grey.Grey_13}",
+          "$extensions": {
+            "codeSyntax": {
+              "WEB": "background-base-disable"
+            },
+            "com.figma": {
+              "variableId": "VariableID:7015:5592",
+              "collectionId": "VariableCollectionId:7015:5415",
+              "syncStatus": "synced"
+            },
+            "com.figma.scopes": [
+              "FRAME_FILL",
+              "SHAPE_FILL",
+              "EFFECT_COLOR"
+            ]
+          }
+        },
+        "Disable2": {
+          "$type": "color",
+          "$value": "{kotak_palette.Color.Grey.Grey_16}",
+          "$extensions": {
+            "codeSyntax": {
+              "WEB": "background-base-disable2"
+            },
+            "com.figma": {
+              "variableId": "VariableID:7015:5593",
+              "collectionId": "VariableCollectionId:7015:5415",
+              "syncStatus": "synced"
+            },
+            "com.figma.scopes": [
+              "FRAME_FILL",
+              "SHAPE_FILL",
+              "EFFECT_COLOR"
+            ]
+          }
+        }
+      },
+      "Error": {
+        "Selected": {
+          "$type": "color",
+          "$value": "{kotak_palette.Red.Red_01}",
+          "$extensions": {
+            "codeSyntax": {
+              "WEB": "background-error-selected"
+            },
+            "com.figma": {
+              "variableId": "VariableID:14102:39097",
+              "collectionId": "VariableCollectionId:7015:5415",
+              "syncStatus": "synced"
+            },
+            "com.figma.scopes": [
+              "FRAME_FILL",
+              "SHAPE_FILL",
+              "EFFECT_COLOR"
+            ]
+          }
+        }
+      },
+      "Info": {
+        "Primary": {
+          "$type": "color",
+          "$value": "{kotak_palette.Light.Primary_06_Light}",
+          "$extensions": {
+            "codeSyntax": {
+              "WEB": "background-info-primary"
+            },
+            "com.figma": {
+              "variableId": "VariableID:7015:5586",
+              "collectionId": "VariableCollectionId:7015:5415",
+              "syncStatus": "synced"
+            },
+            "com.figma.scopes": [
+              "FRAME_FILL",
+              "SHAPE_FILL",
+              "EFFECT_COLOR"
+            ]
+          }
+        },
+        "Hover": {
+          "$type": "color",
+          "$value": "{kotak_palette.Dark.Primary_06_Dark}",
+          "$extensions": {
+            "codeSyntax": {
+              "WEB": "background-info-hover"
+            },
+            "com.figma": {
+              "variableId": "VariableID:7015:5588",
+              "collectionId": "VariableCollectionId:7015:5415",
+              "syncStatus": "synced"
+            },
+            "com.figma.scopes": [
+              "FRAME_FILL",
+              "SHAPE_FILL",
+              "EFFECT_COLOR"
+            ]
+          }
+        },
+        "Active": {
+          "$type": "color",
+          "$value": "{kotak_palette.Color.Ext.Blue.ext-blue_06}",
+          "$extensions": {
+            "codeSyntax": {
+              "WEB": "background-info-active"
+            },
+            "com.figma": {
+              "variableId": "VariableID:7015:5589",
+              "collectionId": "VariableCollectionId:7015:5415",
+              "syncStatus": "synced"
+            },
+            "com.figma.scopes": [
+              "FRAME_FILL",
+              "SHAPE_FILL",
+              "EFFECT_COLOR"
+            ]
+          }
+        },
+        "Tertiary": {
+          "$type": "color",
+          "$value": "{kotak_palette.Color.Grey.Grey_04}",
+          "$extensions": {
+            "codeSyntax": {
+              "WEB": "background-info-tertiary"
+            },
+            "com.figma": {
+              "variableId": "VariableID:7015:5590",
+              "collectionId": "VariableCollectionId:7015:5415",
+              "syncStatus": "synced"
+            },
+            "com.figma.scopes": [
+              "FRAME_FILL",
+              "SHAPE_FILL",
+              "EFFECT_COLOR"
+            ]
+          }
+        }
+      }
+    },
+    "Text-&-Icon": {
+      "Default": {
+        "Filled": {
+          "$type": "color",
+          "$value": "{kotak_palette.Neutrals.Neutral_01}",
+          "$extensions": {
+            "codeSyntax": {
+              "WEB": "texticon-default-filled"
+            },
+            "com.figma": {
+              "variableId": "VariableID:7015:5423",
+              "collectionId": "VariableCollectionId:7015:5415",
+              "syncStatus": "synced"
+            },
+            "com.figma.scopes": [
+              "SHAPE_FILL",
+              "TEXT_FILL",
+              "EFFECT_COLOR"
+            ]
+          }
+        },
+        "Alternate": {
+          "$type": "color",
+          "$value": "{kotak_palette.Neutrals.Neutral_02}",
+          "$extensions": {
+            "codeSyntax": {
+              "WEB": "texticon-default-alternate"
+            },
+            "com.figma": {
+              "variableId": "VariableID:10480:6960",
+              "collectionId": "VariableCollectionId:7015:5415",
+              "syncStatus": "synced"
+            },
+            "com.figma.scopes": [
+              "SHAPE_FILL",
+              "TEXT_FILL",
+              "EFFECT_COLOR"
+            ]
+          }
+        },
+        "Default": {
+          "$type": "color",
+          "$value": "{kotak_palette.Neutrals.Neutral_02}",
+          "$extensions": {
+            "codeSyntax": {
+              "WEB": "texticon-default-default"
+            },
+            "com.figma": {
+              "variableId": "VariableID:7015:5424",
+              "collectionId": "VariableCollectionId:7015:5415",
+              "syncStatus": "synced"
+            },
+            "com.figma.scopes": [
+              "SHAPE_FILL",
+              "TEXT_FILL",
+              "EFFECT_COLOR"
+            ]
+          }
+        },
+        "Disable": {
+          "$type": "color",
+          "$value": "{kotak_palette.Neutrals.Neutral_03}",
+          "$extensions": {
+            "codeSyntax": {
+              "WEB": "texticon-default-disable"
+            },
+            "com.figma": {
+              "variableId": "VariableID:7015:5425",
+              "collectionId": "VariableCollectionId:7015:5415",
+              "syncStatus": "synced"
+            },
+            "com.figma.scopes": [
+              "SHAPE_FILL",
+              "TEXT_FILL",
+              "EFFECT_COLOR"
+            ]
+          }
+        },
+        "Tertiary": {
+          "$type": "color",
+          "$value": "{kotak_palette.Neutrals.Neutral_03}",
+          "$extensions": {
+            "codeSyntax": {
+              "WEB": "texticon-default-tertiary"
+            },
+            "com.figma": {
+              "variableId": "VariableID:7015:5427",
+              "collectionId": "VariableCollectionId:7015:5415",
+              "syncStatus": "synced"
+            },
+            "com.figma.scopes": [
+              "SHAPE_FILL",
+              "TEXT_FILL",
+              "EFFECT_COLOR"
+            ]
+          }
+        }
+      }
+    },
+    "Border": {
+      "Default": {
+        "Neutral": {
+          "$type": "color",
+          "$value": "{kotak_palette.Neutrals.Neutral 13}",
+          "$extensions": {
+            "codeSyntax": {
+              "WEB": "border-default-neutral"
+            },
+            "com.figma": {
+              "variableId": "VariableID:8956:100056",
+              "collectionId": "VariableCollectionId:7015:5415",
+              "syncStatus": "synced"
+            },
+            "com.figma.scopes": [
+              "STROKE_COLOR",
+              "EFFECT_COLOR"
+            ]
+          }
+        },
+        "Filled": {
+          "$type": "color",
+          "$value": "{kotak_palette.Neutrals.Neutral_01}",
+          "$extensions": {
+            "codeSyntax": {
+              "WEB": "border-default-filled"
+            },
+            "com.figma": {
+              "variableId": "VariableID:7015:5450",
+              "collectionId": "VariableCollectionId:7015:5415",
+              "syncStatus": "synced"
+            },
+            "com.figma.scopes": [
+              "STROKE_COLOR",
+              "EFFECT_COLOR"
+            ]
+          }
+        },
+        "Disable": {
+          "$type": "color",
+          "$value": "{kotak_palette.Neutrals.Neutral_03}",
+          "$extensions": {
+            "codeSyntax": {
+              "WEB": "border-default-disable"
+            },
+            "com.figma": {
+              "variableId": "VariableID:7015:5452",
+              "collectionId": "VariableCollectionId:7015:5415",
+              "syncStatus": "synced"
+            },
+            "com.figma.scopes": [
+              "STROKE_COLOR",
+              "EFFECT_COLOR"
+            ]
+          }
+        },
+        "Tertiary": {
+          "$type": "color",
+          "$value": "{kotak_palette.Neutrals.Neutral_04}",
+          "$extensions": {
+            "codeSyntax": {
+              "WEB": "border-default-tertiary"
+            },
+            "com.figma": {
+              "variableId": "VariableID:7015:5454",
+              "collectionId": "VariableCollectionId:7015:5415",
+              "syncStatus": "synced"
+            },
+            "com.figma.scopes": [
+              "STROKE_COLOR",
+              "EFFECT_COLOR"
+            ]
+          }
+        }
+      }
+    },
+    "Utility": {
+      "Color": {
+        "Neutrals": {
+          "Neutral_01": {
+            "$type": "color",
+            "$value": "{kotak_palette.Neutrals.Neutral 13}",
+            "$extensions": {
+              "codeSyntax": {
+                "WEB": "utility-neutral-neutral_01"
+              },
+              "com.figma": {
+                "variableId": "VariableID:7015:5487",
+                "collectionId": "VariableCollectionId:7015:5415",
+                "syncStatus": "synced"
+              },
+              "com.figma.scopes": [
+                "ALL_COLORS",
+                "FRAME_FILL",
+                "SHAPE_FILL",
+                "TEXT_FILL",
+                "STROKE_COLOR",
+                "EFFECT_COLOR"
+              ]
+            }
+          },
+          "Neutral_02": {
+            "$type": "color",
+            "$value": "{kotak_palette.Neutrals.Neutral_12}",
+            "$extensions": {
+              "codeSyntax": {
+                "WEB": "utility-neutral-neutral_02"
+              },
+              "com.figma": {
+                "variableId": "VariableID:7015:5488",
+                "collectionId": "VariableCollectionId:7015:5415",
+                "syncStatus": "synced"
+              },
+              "com.figma.scopes": [
+                "ALL_COLORS",
+                "FRAME_FILL",
+                "SHAPE_FILL",
+                "TEXT_FILL",
+                "STROKE_COLOR",
+                "EFFECT_COLOR"
+              ]
+            }
+          },
+          "Neutral_03": {
+            "$type": "color",
+            "$value": "{kotak_palette.Neutrals.Neutral_11}",
+            "$extensions": {
+              "codeSyntax": {
+                "WEB": "utility-neutral-neutral_03"
+              },
+              "com.figma": {
+                "variableId": "VariableID:7015:5489",
+                "collectionId": "VariableCollectionId:7015:5415",
+                "syncStatus": "synced"
+              },
+              "com.figma.scopes": [
+                "ALL_COLORS",
+                "FRAME_FILL",
+                "SHAPE_FILL",
+                "TEXT_FILL",
+                "STROKE_COLOR",
+                "EFFECT_COLOR"
+              ]
+            }
+          },
+          "Neutral_04": {
+            "$type": "color",
+            "$value": "{kotak_palette.Neutrals.Neutral_10}",
+            "$extensions": {
+              "codeSyntax": {
+                "WEB": "utility-neutral-neutral_04"
+              },
+              "com.figma": {
+                "variableId": "VariableID:7015:5490",
+                "collectionId": "VariableCollectionId:7015:5415",
+                "syncStatus": "synced"
+              },
+              "com.figma.scopes": [
+                "ALL_COLORS",
+                "FRAME_FILL",
+                "SHAPE_FILL",
+                "TEXT_FILL",
+                "STROKE_COLOR",
+                "EFFECT_COLOR"
+              ]
+            }
+          },
+          "Neutral_05": {
+            "$type": "color",
+            "$value": "{kotak_palette.Neutrals.Neutral_09}",
+            "$extensions": {
+              "codeSyntax": {
+                "WEB": "utility-neutral-neutral_05"
+              },
+              "com.figma": {
+                "variableId": "VariableID:7015:5491",
+                "collectionId": "VariableCollectionId:7015:5415",
+                "syncStatus": "synced"
+              },
+              "com.figma.scopes": [
+                "ALL_COLORS",
+                "FRAME_FILL",
+                "SHAPE_FILL",
+                "TEXT_FILL",
+                "STROKE_COLOR",
+                "EFFECT_COLOR"
+              ]
+            }
+          },
+          "Neutral_06": {
+            "$type": "color",
+            "$value": "{kotak_palette.Neutrals.Neutral_08}",
+            "$extensions": {
+              "codeSyntax": {
+                "WEB": "utility-neutral-neutral_06"
+              },
+              "com.figma": {
+                "variableId": "VariableID:7015:5492",
+                "collectionId": "VariableCollectionId:7015:5415",
+                "syncStatus": "synced"
+              },
+              "com.figma.scopes": [
+                "ALL_COLORS",
+                "FRAME_FILL",
+                "SHAPE_FILL",
+                "TEXT_FILL",
+                "STROKE_COLOR",
+                "EFFECT_COLOR"
+              ]
+            }
+          },
+          "Neutral_08": {
+            "$type": "color",
+            "$value": "{kotak_palette.Neutrals.Neutral_06}",
+            "$extensions": {
+              "codeSyntax": {
+                "WEB": "utility-neutral-neutral_08"
+              },
+              "com.figma": {
+                "variableId": "VariableID:7015:5494",
+                "collectionId": "VariableCollectionId:7015:5415",
+                "syncStatus": "synced"
+              },
+              "com.figma.scopes": [
+                "ALL_COLORS",
+                "FRAME_FILL",
+                "SHAPE_FILL",
+                "TEXT_FILL",
+                "STROKE_COLOR",
+                "EFFECT_COLOR"
+              ]
+            }
+          },
+          "Neutral_09": {
+            "$type": "color",
+            "$value": "{kotak_palette.Neutrals.Neutral_05}",
+            "$extensions": {
+              "codeSyntax": {
+                "WEB": "utility-neutral-neutral_09"
+              },
+              "com.figma": {
+                "variableId": "VariableID:7015:5495",
+                "collectionId": "VariableCollectionId:7015:5415",
+                "syncStatus": "synced"
+              },
+              "com.figma.scopes": [
+                "ALL_COLORS",
+                "FRAME_FILL",
+                "SHAPE_FILL",
+                "TEXT_FILL",
+                "STROKE_COLOR",
+                "EFFECT_COLOR"
+              ]
+            }
+          },
+          "Neutral_10": {
+            "$type": "color",
+            "$value": "{kotak_palette.Neutrals.Neutral_04}",
+            "$extensions": {
+              "codeSyntax": {
+                "WEB": "utility-neutral-neutral_10"
+              },
+              "com.figma": {
+                "variableId": "VariableID:7015:5496",
+                "collectionId": "VariableCollectionId:7015:5415",
+                "syncStatus": "synced"
+              },
+              "com.figma.scopes": [
+                "ALL_COLORS",
+                "FRAME_FILL",
+                "SHAPE_FILL",
+                "TEXT_FILL",
+                "STROKE_COLOR",
+                "EFFECT_COLOR"
+              ]
+            }
+          },
+          "Neutral_11": {
+            "$type": "color",
+            "$value": "{kotak_palette.Neutrals.Neutral_03}",
+            "$extensions": {
+              "codeSyntax": {
+                "WEB": "utility-neutral-neutral_11"
+              },
+              "com.figma": {
+                "variableId": "VariableID:7015:5497",
+                "collectionId": "VariableCollectionId:7015:5415",
+                "syncStatus": "synced"
+              },
+              "com.figma.scopes": [
+                "ALL_COLORS",
+                "FRAME_FILL",
+                "SHAPE_FILL",
+                "TEXT_FILL",
+                "STROKE_COLOR",
+                "EFFECT_COLOR"
+              ]
+            }
+          },
+          "Neutral_12": {
+            "$type": "color",
+            "$value": "{kotak_palette.Neutrals.Neutral_02}",
+            "$extensions": {
+              "codeSyntax": {
+                "WEB": "utility-neutral-neutral_12"
+              },
+              "com.figma": {
+                "variableId": "VariableID:7015:5498",
+                "collectionId": "VariableCollectionId:7015:5415",
+                "syncStatus": "synced"
+              },
+              "com.figma.scopes": [
+                "ALL_COLORS",
+                "FRAME_FILL",
+                "SHAPE_FILL",
+                "TEXT_FILL",
+                "STROKE_COLOR",
+                "EFFECT_COLOR"
+              ]
+            }
+          },
+          "Neutral_13": {
+            "$type": "color",
+            "$value": "{kotak_palette.Neutrals.Neutral_01}",
+            "$extensions": {
+              "codeSyntax": {
+                "WEB": "utility-neutral-neutral13"
+              },
+              "com.figma": {
+                "variableId": "VariableID:7015:5499",
+                "collectionId": "VariableCollectionId:7015:5415",
+                "syncStatus": "synced"
+              },
+              "com.figma.scopes": [
+                "ALL_COLORS",
+                "FRAME_FILL",
+                "SHAPE_FILL",
+                "TEXT_FILL",
+                "STROKE_COLOR",
+                "EFFECT_COLOR"
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}

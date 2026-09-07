@@ -1,0 +1,23 @@
+{
+  "format": "dhm-token-repository",
+  "version": 1,
+  "package": {
+    "name": "onedl-design-tokens-test",
+    "version": "1.0.0",
+    "publishTarget": "npm"
+  },
+  "source": {
+    "format": "dtcg-multi",
+    "path": "tokens",
+    "manifestPath": "tokens/manifest.json",
+    "workspacePath": ".dhm/workspace.project.json"
+  },
+  "dist": {
+    "resolvedJson": "dist/tokens.resolved.json",
+    "css": "dist/tokens.css",
+    "typographyCss": "dist/typography.css",
+    "javascript": "dist/index.js",
+    "types": "dist/index.d.ts"
+  },
+  "buildScript": "scripts/build-tokens.mjs"
+}

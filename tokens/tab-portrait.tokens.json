@@ -1,0 +1,49 @@
+{
+  "Breakpoints": {
+    "screen-max": {
+      "$type": "number",
+      "$value": "{Sizing.820px-3xxl}",
+      "$extensions": {
+        "codeSyntax": {
+          "WEB": "screen-max"
+        },
+        "com.figma": {
+          "variableId": "VariableID:8474:51116",
+          "collectionId": "VariableCollectionId:8474:51115",
+          "syncStatus": "synced"
+        },
+        "com.figma.scopes": [
+          "WIDTH_HEIGHT"
+        ]
+      }
+    },
+    "Only-desktop": {
+      "$type": "boolean",
+      "$value": false,
+      "$extensions": {
+        "codeSyntax": {
+          "WEB": "only-desktop"
+        },
+        "com.figma": {
+          "variableId": "VariableID:8478:38466",
+          "collectionId": "VariableCollectionId:8474:51115",
+          "syncStatus": "synced"
+        }
+      }
+    },
+    "Only-mobile": {
+      "$type": "boolean",
+      "$value": true,
+      "$extensions": {
+        "codeSyntax": {
+          "WEB": "only-mobile"
+        },
+        "com.figma": {
+          "variableId": "VariableID:8478:38468",
+          "collectionId": "VariableCollectionId:8474:51115",
+          "syncStatus": "synced"
+        }
+      }
+    }
+  }
+}

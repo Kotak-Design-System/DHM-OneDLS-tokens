@@ -1,0 +1,47 @@
+name: Build design tokens
+
+on:
+  push:
+    paths:
+      - '.dhm/**'
+      - 'tokens/**'
+      - 'source/**'
+      - 'dhm.tokens.config.json'
+      - 'scripts/build-tokens.mjs'
+      - 'package.json'
+      - '.github/workflows/build-tokens.yml'
+  pull_request:
+    paths:
+      - '.dhm/**'
+      - 'tokens/**'
+      - 'source/**'
+      - 'dhm.tokens.config.json'
+      - 'scripts/build-tokens.mjs'
+      - 'package.json'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  packages: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-node@v6
+        with:
+          node-version: 22
+          registry-url: https://registry.npmjs.org
+      - run: npm run validate
+      - run: npm run build
+      - uses: actions/upload-artifact@v6
+        with:
+          name: design-token-dist
+          path: dist
+      - if: github.event_name == 'push' && github.ref == 'refs/heads/main' && true
+        run: npm publish
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+
+  # Pull requests validate and build but never publish.

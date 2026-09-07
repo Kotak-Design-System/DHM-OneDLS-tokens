@@ -1,0 +1,36 @@
+{
+  "format": "dhm-dtcg-package",
+  "version": 1,
+  "files": [
+    {
+      "path": "core.tokens.json",
+      "kind": "core"
+    },
+    {
+      "path": "dark.tokens.json",
+      "kind": "mode",
+      "mode": "Dark"
+    },
+    {
+      "path": "tab.tokens.json",
+      "kind": "mode",
+      "mode": "Tab"
+    },
+    {
+      "path": "tab-portrait.tokens.json",
+      "kind": "mode",
+      "mode": "Tab-Portrait"
+    },
+    {
+      "path": "mobile.tokens.json",
+      "kind": "mode",
+      "mode": "Mobile"
+    },
+    {
+      "path": "text-styles.tokens.json",
+      "kind": "text-styles"
+    }
+  ],
+  "designFile": "DESIGN.md",
+  "workspaceFile": ".dhm/workspace.project.json"
+}
